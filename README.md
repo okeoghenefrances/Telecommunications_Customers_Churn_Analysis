@@ -14,5 +14,5 @@ This project includes data cleaning and preparation process for the Telco Custom
 - How to use Power Bi for Insights visualization.
 
 ## Preview
-
- Click the image above to see a preview of the final dasboard.
+https://github.com/okeoghenefrances/Telecommunications_Customers_Churn_Analysis/blob/main/TELECOM%20PBI.pdf
+ Click the link above to see a preview of the final dasboard.
